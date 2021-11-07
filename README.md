@@ -2,7 +2,7 @@
 
 - My interests are in Data Science 🖥️, NLP 📃, Language Learning 🗣️ and everything in between.
 
-- I primarily program with Python 🐍, R 📈 and SQL 💽, along with the many opensource libraries available to them.
+- I primarily program with `Python`, `R` and `SQL`, along with the many opensource libraries available to them.
 
 ---
 
