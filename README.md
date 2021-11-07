@@ -2,7 +2,7 @@
 
 ---
 
-## Welcome to my Gihub profile! 👋
+## 👋 Welcome to my Gihub profile! 👋
 
 - My interests are in Data Science 🖥️, NLP 📃, Language Learning 🗣️ and everything in between.
 
