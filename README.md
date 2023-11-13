@@ -1,4 +1,4 @@
-## Hi! I'm Josh 👋
+## Hi, I'm Josh 👋
 
 - I live in Canada 🇨🇦
 
