@@ -6,4 +6,4 @@
 
 - my other interests are in startups, data science and software development (in that order)
 
-- and I'm currently on a career break learning webdev and Japanese ...see you in 2024! ✌️
+- and I'm currently on a career break learning full stack web dev and Japanese ...see you in 2024! ✌️
